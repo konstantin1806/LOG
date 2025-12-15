@@ -11,4 +11,5 @@ C:\vagrant_logs\
         ├── nginx.conf.j2
         ├── rsyslog-web.conf.j2
         └── rsyslog-log.conf.j2
+
 файлы во вложени в архиве.
